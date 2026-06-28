@@ -23,7 +23,7 @@ This project is a custom PCB design based on the ESP-12 (ESP8266) Wi-Fi module, 
 - `.kicad_pcb` - PCB layout
 - `Gerber Files` - Manufacturing files
 - `Drill Files` - PCB drilling information
-- `Libraries` - Custom symbols and footprints (if applicable)
+- `Libraries` - Custom symbols and footprints 
 
 ## Design Flow
 1. Circuit schematic creation.
