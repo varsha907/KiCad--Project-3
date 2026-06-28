@@ -43,10 +43,10 @@ This project is a custom PCB design based on the ESP-12 (ESP8266) Wi-Fi module, 
 Add screenshots of the schematic and PCB layout here.
 
 ### Schematic
-![Schematic](images/schematic.png)
+![Schematic](schematic.png)
 
 ### PCB Layout
-![PCB Layout](images/pcb_layout.png)
+![PCB Layout](pcb_layout.png)
 
 ## Author
 Varsha Kumari
