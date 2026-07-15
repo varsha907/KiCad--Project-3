@@ -46,7 +46,7 @@ Add screenshots of the schematic and PCB layout here.
 ![Schematic](schematic.png)
 
 ### PCB Layout
-![PCB Layout](images/pcb_layout.png)
+![PCB Layout](pcb_layout.png)
 
 ## Author
 Varsha Kumari
